@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#bla bla bla
 usage() {
     echo "Deploy a local file to Artifactory keeping the same file name"
     echo "Usage: $0 localFilePath targetFolder"
